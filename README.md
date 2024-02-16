@@ -83,5 +83,9 @@
         <a href="https://gitlab.com/vanhieu99it" target="_blank">
         <img src="https://img.shields.io/badge/gitlab-360D71.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
     </a>
+    </a>
+        <a href="https://www.linkedin.com/in/vanhieu-it" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-4867AC.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
 
 </div>
