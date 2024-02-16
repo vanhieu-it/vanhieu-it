@@ -71,21 +71,20 @@
 
 ##
 <div align="center">
+    </a>
+        <a href="https://www.linkedin.com/in/vanhieu-it" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-4867AC.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+        <a href="https://github.com/vanhieu-it" target="_blank">
+        <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    </a>
+    <a href="https://gitlab.com/vanhieu99it" target="_blank">
+        <img src="https://img.shields.io/badge/gitlab-360D71.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
+    </a>
     <a href="mailto:vanhieu99it@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.facebook.com/hieudv.9x" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-4867AA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
     </a>
-    <a href="https://github.com/vanhieu-it" target="_blank">
-        <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-    </a>
-        <a href="https://gitlab.com/vanhieu99it" target="_blank">
-        <img src="https://img.shields.io/badge/gitlab-360D71.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
-    </a>
-    </a>
-        <a href="https://www.linkedin.com/in/vanhieu-it" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-4867AC.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-
 </div>
