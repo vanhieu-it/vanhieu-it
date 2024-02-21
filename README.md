@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I am Van Hieu</h1>
 
+![](https://komarev.com/ghpvc/?username=vanhieu-it)
+
 ## 📌 Languages
 <div align="center">
     <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
