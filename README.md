@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I am Van Hieu</h1>
 
-![](https://komarev.com/ghpvc/?username=vanhieu-it)
-
-##
 <div align="center">
     <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="60" height="60" />
@@ -67,6 +64,7 @@
 </div>
 
 ##
+
 <div align="center">
     </a>
         <a href="https://www.linkedin.com/in/vanhieu-it" target="_blank">
@@ -85,3 +83,5 @@
         <img src="https://img.shields.io/badge/Facebook-4867AA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
     </a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=vanhieu-it)
