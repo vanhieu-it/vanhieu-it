@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vanhieu-it)
 
-## 📌 Languages
+##
 <div align="center">
     <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="60" height="60" />
@@ -24,7 +24,7 @@
     </a>
 </div>
 
-## 🧰 Tools
+## 
 <div align="center">
     <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual studio" width="60" height="60" />
