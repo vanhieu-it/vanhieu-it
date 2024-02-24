@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Van Hieu</h1>
+<h1 align="center">Hi 👋, I'm Van Hieu</h1>
 
 <div align="center">
     <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
