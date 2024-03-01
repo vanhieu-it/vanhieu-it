@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Van Hieu</h1>
+<h1 align="center">
+Hi
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+, I'm Van Hieu!
+</h1>
 
 <div align="center">
     <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
@@ -58,13 +62,19 @@
 ## 📊 My Github Stats
 <div align="center">
     <a href="https://github.com/vanhieu-it">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhieu-it&langs_count=8&layout=compact&theme=algolia&border_radius=20" />
-        <img height="180" src="https://streak-stats.demolab.com/?user=vanhieu-it&theme=algolia&border_radius=20&date_format=j/n/Y" />
+        <img height="280" src = "https://github-readme-streak-stats.herokuapp.com?user=vanhieu-it&theme=chartreuse-dark&hide_border=true" width = 550/>
+        <img height="280" src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=vanhieu-it&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400/>
     </a>
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanhieu-it&theme=chartreuse-dark" width="100%"/>
 
 ##
-
+<div align="left">
+    </a>
+        <img src="https://komarev.com/ghpvc/?username=vanhieu-it&label=Views&style=for-the-badge&color=252D3B" alt="vanhieu-it' profile views" />
+    </a>
+</div>
+    
 <div align="center">
     </a>
         <a href="https://www.linkedin.com/in/vanhieu-it" target="_blank">
@@ -84,4 +94,5 @@
     </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=vanhieu-it)
+
+
