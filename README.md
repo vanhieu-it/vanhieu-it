@@ -66,7 +66,6 @@ Hi
         <img height="280" src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=vanhieu-it&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400/>
     </a>
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanhieu-it&theme=chartreuse-dark" width="100%"/>
 
 ##
 <div align="left">
