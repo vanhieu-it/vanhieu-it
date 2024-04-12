@@ -62,8 +62,8 @@ Hi
 ## 📊 My Github Stats
 <div align="center">
     <a href="https://github.com/vanhieu-it">
-        <img height="280" src = "https://github-readme-streak-stats.herokuapp.com?user=vanhieu-it&theme=chartreuse-dark&hide_border=true" width = 550/>
-        <img height="280" src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=vanhieu-it&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400/>
+        <img height="200" src = "https://github-readme-streak-stats.herokuapp.com?user=vanhieu-it&theme=chartreuse-dark&hide_border=true" width = 450/>
+        <img height="200" src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=vanhieu-it&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 300/>
     </a>
 </div>
 
