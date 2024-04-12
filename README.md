@@ -1,9 +1,13 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Hello,+I'm+Van+Hieu" alt="Title" />
+</div>
 <h1 align="center">
-Hi
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-, I'm Van Hieu!
+<!-- Hi -->
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
+<!-- , I'm Van Hieu! -->
 </h1>
-
 <div align="center">
     <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="60" height="60" />
@@ -79,12 +83,12 @@ Hi
         <a href="https://www.linkedin.com/in/vanhieu-it" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-4867AC.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-        <a href="https://github.com/vanhieu-it" target="_blank">
+<!--     <a href="https://github.com/vanhieu-it" target="_blank">
         <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a>
     <a href="https://gitlab.com/vanhieu99it" target="_blank">
         <img src="https://img.shields.io/badge/gitlab-360D71.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
-    </a>
+    </a> -->
     <a href="mailto:vanhieu99it@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
