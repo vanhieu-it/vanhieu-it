@@ -1,17 +1,19 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Hello,+I'm+Van+Hieu" alt="Title" />
 </div>
-<h1 align="center">
+ <h1 align="center">
 <!-- Hi -->
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48"> -->
 <!-- , I'm Van Hieu! -->
-</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,windows,redis,nodejs,postgres,mysql,kafka,html,css&perline=20)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,docker,windows,git,vercel,stackoverflow,gitlab,github,githubactions,firebase&perline=20)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,nodejs,html,css,redis,kafka,spring,maven,gradle,postgres,mysql&perline=20)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,docker,jenkins,git,stackoverflow,gitlab,github,githubactions,firebase&perline=20)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" alt="Tomcat" width="40" height="40" />
+ </h1>
+ 
 ## 📊 My Github Stats
 <div align="center">
     <a href="https://github.com/vanhieu-it">
