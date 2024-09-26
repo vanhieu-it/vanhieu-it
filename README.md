@@ -6,12 +6,12 @@
 <!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48"> -->
-<!-- , I'm Van Hieu! -->
+<!-- , I'm Van Hieu! nodejs,html,css,redis,kafka, vscode, githubactions, stackoverflow  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" alt="Tomcat" width="40" height="40" />  -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,nodejs,html,css,redis,kafka,spring,maven,gradle,postgres,mysql&perline=20)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" />
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,docker,jenkins,git,stackoverflow,gitlab,github,githubactions,firebase&perline=20)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" alt="Tomcat" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,spring,maven,gradle,postgres,mysql&perline=20)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,postman,docker,jenkins,git,gitlab,github,firebase&perline=20)](https://skillicons.dev)
+
  </h1>
  
 ## 📊 My Github Stats
