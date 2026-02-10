@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,postman,docker,jenkins,git,gitlab,github,firebase&perline=20)](https://skillicons.dev)
 
  </h1>
- 
+ <!--
 ## 📊 My Github Stats
 <div align="center">
     <a href="https://github.com/vanhieu-it">
@@ -32,7 +32,7 @@
         <img src="https://komarev.com/ghpvc/?username=vanhieu-it&label=Views&style=for-the-badge&color=252D3B" alt="vanhieu-it' profile views" />
     </a>
 </div>
-
+-->
 
 <div align="center">
     </a>
